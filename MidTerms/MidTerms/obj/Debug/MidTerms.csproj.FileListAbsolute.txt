@@ -1,0 +1,7 @@
+C:\Users\Hassan Farah\Documents\PROG 110\MidTerms\MidTerms\bin\Debug\MidTerms.exe.config
+C:\Users\Hassan Farah\Documents\PROG 110\MidTerms\MidTerms\bin\Debug\MidTerms.exe
+C:\Users\Hassan Farah\Documents\PROG 110\MidTerms\MidTerms\bin\Debug\MidTerms.pdb
+C:\Users\Hassan Farah\Documents\PROG 110\MidTerms\MidTerms\obj\Debug\MidTerms.csprojResolveAssemblyReference.cache
+C:\Users\Hassan Farah\Documents\PROG 110\MidTerms\MidTerms\obj\Debug\MidTerms.csproj.CoreCompileInputs.cache
+C:\Users\Hassan Farah\Documents\PROG 110\MidTerms\MidTerms\obj\Debug\MidTerms.exe
+C:\Users\Hassan Farah\Documents\PROG 110\MidTerms\MidTerms\obj\Debug\MidTerms.pdb
