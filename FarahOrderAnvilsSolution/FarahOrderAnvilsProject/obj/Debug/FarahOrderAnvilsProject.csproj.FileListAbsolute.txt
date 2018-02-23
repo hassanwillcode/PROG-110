@@ -1,0 +1,7 @@
+D:\PROG 130\FarahOrderAnvilsSolution\FarahOrderAnvilsProject\bin\Debug\FarahOrderAnvilsProject.exe.config
+D:\PROG 130\FarahOrderAnvilsSolution\FarahOrderAnvilsProject\bin\Debug\FarahOrderAnvilsProject.exe
+D:\PROG 130\FarahOrderAnvilsSolution\FarahOrderAnvilsProject\bin\Debug\FarahOrderAnvilsProject.pdb
+D:\PROG 130\FarahOrderAnvilsSolution\FarahOrderAnvilsProject\obj\Debug\FarahOrderAnvilsProject.csprojResolveAssemblyReference.cache
+D:\PROG 130\FarahOrderAnvilsSolution\FarahOrderAnvilsProject\obj\Debug\FarahOrderAnvilsProject.csproj.CoreCompileInputs.cache
+D:\PROG 130\FarahOrderAnvilsSolution\FarahOrderAnvilsProject\obj\Debug\FarahOrderAnvilsProject.exe
+D:\PROG 130\FarahOrderAnvilsSolution\FarahOrderAnvilsProject\obj\Debug\FarahOrderAnvilsProject.pdb

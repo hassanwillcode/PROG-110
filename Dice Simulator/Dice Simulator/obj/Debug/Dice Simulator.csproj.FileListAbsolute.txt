@@ -1,0 +1,7 @@
+C:\Users\Hassan Farah\Documents\PROG 110\Dice Simulator\Dice Simulator\bin\Debug\Dice Simulator.exe.config
+C:\Users\Hassan Farah\Documents\PROG 110\Dice Simulator\Dice Simulator\bin\Debug\Dice Simulator.exe
+C:\Users\Hassan Farah\Documents\PROG 110\Dice Simulator\Dice Simulator\bin\Debug\Dice Simulator.pdb
+C:\Users\Hassan Farah\Documents\PROG 110\Dice Simulator\Dice Simulator\obj\Debug\Dice Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Hassan Farah\Documents\PROG 110\Dice Simulator\Dice Simulator\obj\Debug\Dice Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Hassan Farah\Documents\PROG 110\Dice Simulator\Dice Simulator\obj\Debug\Dice Simulator.exe
+C:\Users\Hassan Farah\Documents\PROG 110\Dice Simulator\Dice Simulator\obj\Debug\Dice Simulator.pdb
